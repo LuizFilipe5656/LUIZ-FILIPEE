@@ -13,3 +13,22 @@ Sou um [ Desenvolvedor Full-Stack / Estudante e amante da tecnologia ] e com ime
 
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Git](https://shields.io)
+
+---
+
+## :mobile_phone: Redes Sociais
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Instagram](https://shields.io)](https://instagram.com)
+
+---
+
+## :bar_chart: Estatísticas do GitHub
+
+<p align="center">
+  <img height="180n" src="https://vercel.app" />
+  <img height="180n" src="https://vercel.app" />
+</p>
