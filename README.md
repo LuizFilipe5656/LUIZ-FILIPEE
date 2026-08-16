@@ -22,8 +22,8 @@ Sou um [ Desenvolvedor Full-Stack / Estudante e amante da tecnologia ] e com ime
 
 ## :mobile_phone: Redes Sociais
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ---
 
