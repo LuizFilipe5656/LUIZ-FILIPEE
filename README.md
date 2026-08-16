@@ -30,6 +30,7 @@ Sou um [ Desenvolvedor Full-Stack / Estudante e amante da tecnologia ] e com ime
 ## :bar_chart: Estatísticas do GitHub
 
 <p align="center">
-  <img height="180n" src="https://vercel.app" />
-  <img height="180n" src="https://vercel.app" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
 </p>
+
