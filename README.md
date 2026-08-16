@@ -12,3 +12,4 @@ Sou um [ Desenvolvedor Full-Stack / Estudante e amante da tecnologia ] e com ime
 ## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://shields.io)
+![CSS3](https://shields.io)
